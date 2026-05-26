@@ -39,7 +39,7 @@ function App() {
       <nav className="flex justify-between items-center px-6 md:px-12 py-6 border-b border-zinc-800 sticky top-0 bg-black/90 backdrop-blur-md z-50">
 
         <h1 className="text-2xl font-bold tracking-[8px]">
-          BLACKFRAME.
+          BLACKFRAME
         </h1>
 
         <ul className="flex gap-8 text-sm uppercase tracking-[4px] text-zinc-400">
